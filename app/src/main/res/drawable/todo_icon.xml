@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="50dp"
+    android:height="50dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Paper/Document Background -->
+    <path
+        android:fillColor="@color/black"
+        android:pathData="M4,2H16L20,6V22H4Z"/>
+
+    <!-- Top Fold -->
+    <path
+        android:fillColor="#ABBCC7"
+        android:pathData="M16,2V6H20Z"/>
+
+    <!-- Checkboxes (Drawn as Paths Instead of Rects) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M6,8h3v3h-3z"/>
+
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M6,12h3v3h-3z"/>
+
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M6,16h3v3h-3z"/>
+
+    <!-- Checkmarks -->
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeWidth="1.5"
+        android:strokeColor="#4CAF50"
+        android:strokeLineCap="round"
+        android:pathData="M6.5,9.5L7.5,10.5L9,8.5"/>
+
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeWidth="1.5"
+        android:strokeColor="#4CAF50"
+        android:strokeLineCap="round"
+        android:pathData="M6.5,13.5L7.5,14.5L9,12.5"/>
+
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeWidth="1.5"
+        android:strokeColor="#4CAF50"
+        android:strokeLineCap="round"
+        android:pathData="M6.5,17.5L7.5,18.5L9,16.5"/>
+
+    <!-- Task Lines -->
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeWidth="2"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:pathData="M11,9H18"/>
+
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeWidth="2"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:pathData="M11,13H18"/>
+
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeWidth="2"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:pathData="M11,17H18"/>
+</vector>

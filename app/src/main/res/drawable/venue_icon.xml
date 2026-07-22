@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="50dp"
+    android:height="50dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Building Base -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M4,3H20V21H4Z"/>
+
+    <!-- Windows -->
+    <path android:fillColor="#FFFFFF" android:pathData="M6,5H8V7H6Z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M10,5H12V7H10Z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M14,5H16V7H14Z"/>
+
+    <path android:fillColor="#FFFFFF" android:pathData="M6,9H8V11H6Z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M10,9H12V11H10Z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M14,9H16V11H14Z"/>
+
+    <path android:fillColor="#FFFFFF" android:pathData="M6,13H8V15H6Z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M10,13H12V15H10Z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M14,13H16V15H14Z"/>
+
+    <!-- Door -->
+    <path android:fillColor="#FFBEAF" android:pathData="M10,17H14V21H10Z"/>
+</vector>

@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "473215060084",
+    "project_id": "eventpal01-org",
+    "storage_bucket": "eventpal01-org.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473215060084:android:d5626a64dac019aa9c2921",
+        "android_client_info": {
+          "package_name": "com.example.eventpal01_org"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEsaGojcYOrfwc4pAKkTZ_b8vQ257PKC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473215060084:android:9ee335468e72e70f9c2921",
+        "android_client_info": {
+          "package_name": "com.example.eventpal_client"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEsaGojcYOrfwc4pAKkTZ_b8vQ257PKC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473215060084:android:e99ae149255cb4b79c2921",
+        "android_client_info": {
+          "package_name": "com.example.eventpal_organization"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEsaGojcYOrfwc4pAKkTZ_b8vQ257PKC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
